@@ -22,6 +22,6 @@ This endeavor is a Jupyter Notebook-based repository for scraping artist data fr
 - Spotify API
 
 ## Resources
-- Spotify API Documentation
-- Spotipy Library Docs
-- Jupyter Notebook Docs
+- [Spotify API Documentation](https://developer.spotify.com/documentation/web-api)
+- [Spotipy Library Docs](https://spotipy.readthedocs.io/en/2.19.0/)
+- [Jupyter Notebook Docs](https://jupyter-notebook.readthedocs.io/en/stable/)
