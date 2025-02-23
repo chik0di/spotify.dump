@@ -1,4 +1,4 @@
- ## Overview
+ ## Overview 
 This endeavor is a Jupyter Notebook-based repository for scraping artist data from Spotify using the Spotipy library and the Spotify Web API. It enables easy exploration of Spotify’s rich dataset, fetching artist information, albums, tracks, audio features, and several pre-processing methods performed on dataset to further enrich it making it fit for analysis.
  
 ## Features
