@@ -2,7 +2,7 @@ from dotenv import load_dotenv
 import base64
 from requests import post, get
 import json
-import os
+import os 
 
 load_dotenv()
 
