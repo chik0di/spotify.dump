@@ -10,7 +10,7 @@ This endeavor is a Jupyter Notebook-based repository for scraping artist data fr
     - Valence
     - Acousticness
     - Instrumentalness
-    - Speechiness
+    - Speechiness 
 - Search by Artist or Playlist: Fetch track data from an artist or playlist. 
 - Export Customizations: Save the data in JSON or CSV for further analysis.
 - Spotify API Integration: Simplifies interaction with Spotify's Web API.
