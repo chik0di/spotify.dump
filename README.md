@@ -18,7 +18,7 @@ This endeavor is a Jupyter Notebook-based repository for scraping artist data fr
 ## Tools & Technologies Used
 - Python 3.8+
 - Jupyter Notebook
-- Spotipy {ython Library 
+- Spotipy Python Library 
 - Spotify API
 
 ## Resources
