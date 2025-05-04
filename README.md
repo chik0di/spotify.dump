@@ -5,7 +5,7 @@ This endeavor is a Jupyter Notebook-based repository for scraping artist data fr
 - Retrieve Audio Features: Analyze track-level attributes such as:
     - Tempo (BPM) 
     - Danceability 
-    - Energy
+    - Energy 
     - Loudness
     - Valence
     - Acousticness
