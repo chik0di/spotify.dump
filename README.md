@@ -9,6 +9,7 @@ This endeavor is a Jupyter Notebook-based repository for scraping artist data fr
     - Loudness
     - Valence
     - Acousticness
+    - Liveness
     - Instrumentalness
     - Speechiness
       
