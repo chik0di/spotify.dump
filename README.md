@@ -1,7 +1,7 @@
 ![Spongebob Vibing](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXRidndiZXA3M2x3Z2trdnlzeGhsOHV2MzZqbHdxd3c0bTdnN3hycCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tqfS3mgQU28ko/giphy.gif)
 
 ## Overview 
-This endeavor is a Jupyter Notebook-based repository for scraping artist data from Spotify using the Spotipy library and the Spotify Web API. It enables easy exploration of Spotify’s rich dataset, fetching artist information, albums, tracks, audio features, and several pre-processing methods performed on dataset to further enrich it making it fit for analysis.
+This endeavor is a Jupyter Notebook-based repository for scraping artist data from Spotify using the Spotipy library and the Spotify Web API. It enables easy exploration of Spotify’s rich dataset, fetching artist information, albums, tracks, audio features, and several pre-processing methods performed on dataset to further enrich it making it fit for analysis. 
  
 ## Features
 - Retrieve Audio Features: Analyze track-level attributes such as:
@@ -21,7 +21,7 @@ This endeavor is a Jupyter Notebook-based repository for scraping artist data fr
 
 ## Tools & Technologies Used
 - Python 3.8+
-- Jupyter Notebook
+- Jupyter Notebook 
 - Spotipy Python Library 
 - Spotify API
 
