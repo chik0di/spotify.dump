@@ -10,7 +10,7 @@ This endeavor is a Jupyter Notebook-based repository for scraping artist data fr
     - Energy 
     - Loudness
     - Valence
-    - Acousticness
+    - Acousticness 
     - Liveness
     - Instrumentalness
     - Speechiness
@@ -23,7 +23,7 @@ This endeavor is a Jupyter Notebook-based repository for scraping artist data fr
 - Python 3.8+
 - Jupyter Notebook 
 - Spotipy Python Library 
-- Spotify API
+- Spotify API 
 
 ## Resources
 - [Spotify API Documentation](https://developer.spotify.com/documentation/web-api)
